@@ -25,4 +25,8 @@ class Calculator
         return $num1 * $num2;
     }
 
+    public function square($num, $exponent){
+        return pow($num, $exponent);
+    }
+
 }
