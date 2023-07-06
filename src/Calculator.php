@@ -31,7 +31,7 @@ class Calculator
 
     public function sqrt($num)
     {
-        return sqrt($num)
+        return sqrt($num);
     }
 
 }
