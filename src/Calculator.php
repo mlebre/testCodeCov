@@ -29,4 +29,9 @@ class Calculator
         return pow($num, $exponent);
     }
 
+    public function sqrt($num)
+    {
+        return sqrt($num)
+    }
+
 }
