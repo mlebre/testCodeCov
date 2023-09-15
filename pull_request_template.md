@@ -1,0 +1,4 @@
+ - Lien du pulse :
+ - Changements principaux :
+ - Fonctions impactées par le(s) changement(s) :
+ - Raisons du choix technique (si pertinent) : 
